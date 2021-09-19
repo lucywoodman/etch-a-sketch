@@ -3,7 +3,7 @@ body {
     display: grid;
     place-items: center;
     background: white;
-    background: url(https://picsum.photos/1600/1000);
+    background: url(https://picsum.photos/id/307/1600/1000);
     background-size: cover;
   }
   
